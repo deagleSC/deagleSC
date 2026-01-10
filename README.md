@@ -91,14 +91,14 @@ Open to conversations about full-stack engineering roles, AI-integrated product 
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deagleSC&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deagleSC&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deagleSC&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deagleSC&layout=compact&theme=default&hide_border=true)
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.demolab.com/?user=deagleSC&theme=default&hide_border=true" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=deagleSC&theme=default&hide_border=true)
   
 </div>
 
