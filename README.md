@@ -90,11 +90,16 @@ Open to conversations about full-stack engineering roles, AI-integrated product 
 ## GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deagleSC&show_icons=true&theme=default&hide_border=true&include_all_commits=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deagleSC&layout=compact&theme=default&hide_border=true)
-  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deagleSC&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deagleSC&layout=compact&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deagleSC&hide_border=true)
+
 </div>
+
+
 
 <div align="center">
   
@@ -104,4 +109,4 @@ Open to conversations about full-stack engineering roles, AI-integrated product 
 
 ---
 
-_Last updated: 2024_
+_Last updated: 2026_
