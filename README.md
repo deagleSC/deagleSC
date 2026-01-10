@@ -85,27 +85,6 @@ Open to conversations about full-stack engineering roles, AI-integrated product 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/deagleSC)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:supratikofficial1@gmail.com)
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deagleSC&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deagleSC&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deagleSC&hide_border=true)
-
-</div>
-
-
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=deagleSC&theme=default&hide_border=true)
-  
-</div>
 
 ---
 
