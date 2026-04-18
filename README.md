@@ -1,91 +1,98 @@
 # Supratik Chakraborty
 
-**Software Engineer (Full-Stack) @ Trumio**
+<p align="left">
+  <b>Software Engineer @ Trumio</b>
+</p>
 
-Building enterprise-grade SaaS platforms with a focus on admin governance, analytics, and compliance-first architectures. Experienced in designing multi-tenant systems, RBAC implementations, and LLM-powered automation pipelines.
+<p align="left">
+  <a href="https://supratikch.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/supratikch">LinkedIn</a> •
+  <a href="https://github.com/deagleSC">GitHub</a>
+</p>
 
----
-
-## About
-
-I specialize in crafting scalable, production-ready solutions that reduce operational overhead and improve enterprise workflows. Currently working with **FastAPI**, **React**, **MongoDB**, and **Azure** to deliver solutions that matter.
-
-### Key Focus Areas
-
-- **Multi-tenant Architecture** - Designing systems that scale across organizations
-- **Security & Compliance** - RBAC, audit trails, and policy-driven workflows
-- **Analytics & Data Pipelines** - Building resilient ingestion and processing systems
-- **AI Integration** - LLM-powered automation and intelligent workflows
-- **Design Systems** - Creating reusable component libraries for faster development
+Engineering AI-powered platforms that help enterprises streamline workflows, improve operational efficiency, and support large-scale internal initiatives. Using React, Next.js, FastAPI, and driving LLM integrations (Azure Cognitive Services) to deliver distributed, maintainable systems. Collaborating across teams to deliver production-ready features that help enterprise teams work faster, reduce operational overhead, and improve enterprise-talent productivity across the organization. 
 
 ---
 
 ## Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-### Tools & Platforms
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=githubactions)
+![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook)
+![Jest](https://img.shields.io/badge/-Jest-000?&logo=jest)
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### [Chessvine](https://chessvine.vercel.app)
+<table width="100%">
+<tr>
+<td width="50%">
 
-**AI Chess Analysis Platform**
+### Hirevine
 
-A full-stack SaaS platform powered by Gemini 2.0 Flash on GCP Cloud Run, processing chess games with AI-powered analysis and auto-generating personalized training puzzles.
+<a href="https://hirevine.vercel.app">
+  <img width="1470" height="754" alt="image" src="https://github.com/user-attachments/assets/108f222d-82b7-40b0-b52a-4072d3e039c9" />
+</a>
 
-**Tech Stack:** Next.js • Express • MongoDB • GCP Cloud Run • Gemini 2.0 • Docker • Google OAuth
+<p style="margin-top: 20px">AI-native hiring automation platform</p>
 
-**Highlights:**
+- Multi-tenant architecture with async pipelines  
+- AI-generated hiring workflows from prompts  
+- End-to-end candidate evaluation system  
 
-- Processes 20 files/batch with 15s latency
-- Auto-generates 2 puzzles/game for personalized training
-- 15+ dashboard views and 12 API endpoints
-- 99.5% uptime via Dockerized Cloud Build CI/CD
+**Stack:** Next.js · TypeScript · MongoDB · OpenAI · Inngest  
 
-[Live Demo](https://chessvine.vercel.app)
+<a href="https://hirevine.vercel.app">Live</a> · 
+<a href="https://github.com/deagleSC/hirevine-meta">Code</a>
+
+</td>
+
+<td width="50%">
+
+### RentFit AI
+
+<a href="https://rentfit-v1.vercel.app">
+  <img width="1470" height="754" alt="image" src="https://github.com/user-attachments/assets/a4899299-499c-410a-ba37-df04d0c87298" />
+</a>
+
+AI-powered rental discovery platform
+
+- Real-time conversational search  
+- Token streaming with persistent sessions  
+- Geo-search with map integration  
+
+**Stack:** Next.js · TypeScript · Vercel AI SDK · MapLibre  
+
+<a href="https://rentfit-v1.vercel.app">Live</a> · 
+<a href="https://github.com/deagleSC/rentfit-meta">Code</a>
+
+</td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<p align="left" class="flex items-center justify-between">
+  <img src="https://github-readme-stats.vercel.app/api?username=deagleSC&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deagleSC&theme=tokyonight" />
+</p>
 
 ---
 
-## Education
+## Contribution Graph
 
-**B.Tech in Information Technology**  
-West Bengal University of Technology, Kolkata, India  
-_Jul 2019 - Aug 2023 | CGPA: 9.11_
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deagleSC&theme=tokyo-night)
 
 ---
 
-## Connect
 
-Open to conversations about full-stack engineering roles, AI-integrated product development, or tackling complex enterprise challenges together.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supratikch/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/deagleSC)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:supratikofficial1@gmail.com)
-
-
----
-
-_Last updated: 2026_
