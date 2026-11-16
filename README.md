@@ -12,9 +12,6 @@
 
 Engineering AI-powered platforms that help enterprises streamline workflows, improve operational efficiency, and support large-scale internal initiatives. Using React, Next.js, FastAPI, and driving LLM integrations (Azure Cognitive Services) to deliver distributed, maintainable systems. Collaborating across teams to deliver production-ready features that help enterprise teams work faster, reduce operational overhead, and improve enterprise-talent productivity across the organization. 
 
----
-
-## Tech Stack
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
@@ -42,11 +39,11 @@ Engineering AI-powered platforms that help enterprises streamline workflows, imp
 
 ---
 
-## Featured Project
+### Featured Project
 
 <img src="https://raw.githubusercontent.com/deagleSC/hirevine/main/apps/marketing/public/app-logo.png" alt="Hirevine logo" width="56" align="left" />
 
-### Hirevine
+**Hirevine AI** <br>
 AI-native hiring platform — AI does the screening work; people make the decisions.
 
 <br clear="left" />
