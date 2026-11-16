@@ -47,18 +47,9 @@ Engineering AI-powered platforms that help enterprises streamline workflows, imp
 <img src="https://raw.githubusercontent.com/deagleSC/hirevine/main/apps/marketing/public/app-logo.png" alt="Hirevine logo" width="56" align="left" />
 
 ### Hirevine
-
 AI-native hiring platform — AI does the screening work; people make the decisions.
 
 <br clear="left" />
-
-- Hiring pipelines generated from a chat prompt, editable by hand or by chat
-- Evidence-backed resume screening, skills quizzes and voice AI interviews
-- Bias and prompt-injection evals run against the production code paths
-- Personal, team-reviewed feedback released to every candidate
-
-**Stack:** Next.js · TypeScript · FastAPI · LangGraph · Langfuse · PostgreSQL · Inngest
-
 <a href="https://hirevine-manager.vercel.app">Live</a> ·
 <a href="https://github.com/deagleSC/hirevine">Code</a>
 
