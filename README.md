@@ -15,8 +15,6 @@ Engineering AI-powered platforms that help enterprises streamline workflows, imp
 ---
 
 ## Tech Stack
-
-**Frontend**<br/>
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
@@ -25,23 +23,17 @@ Engineering AI-powered platforms that help enterprises streamline workflows, imp
 ![Zod](https://img.shields.io/badge/-Zod-000?&logo=zod)
 ![Vite](https://img.shields.io/badge/-Vite-000?&logo=vite)
 ![Storybook](https://img.shields.io/badge/-Storybook-000?&logo=storybook)
-
-**Backend**<br/>
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Inngest](https://img.shields.io/badge/-Inngest-000?&logo=inngest)
-
-**AI**<br/>
 ![LangChain](https://img.shields.io/badge/-LangChain-000?&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-000?&logo=langgraph)
 ![Langfuse](https://img.shields.io/badge/-Langfuse-000?&logo=langfuse)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=openai)
 ![Azure AI](https://img.shields.io/badge/-Azure_AI-000?&logo=microsoftazure)
-
-**Tooling**<br/>
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Turborepo](https://img.shields.io/badge/-Turborepo-000?&logo=turborepo)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=githubactions)
