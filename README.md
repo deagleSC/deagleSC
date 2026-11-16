@@ -50,7 +50,7 @@ Engineering AI-powered platforms that help enterprises streamline workflows, imp
 AI-native hiring platform — AI does the screening work; people make the decisions.
 
 <br clear="left" />
-<a href="https://hirevine-manager.vercel.app">Live</a> ·
+<a href="https://hirevine.vercel.app">Live</a> ·
 <a href="https://github.com/deagleSC/hirevine">Code</a>
 
 ---
